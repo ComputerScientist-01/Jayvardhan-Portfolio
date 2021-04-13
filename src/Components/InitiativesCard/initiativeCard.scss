@@ -1,0 +1,21 @@
+.initiative_container {
+    background-color: #343434;
+    color: #fff;
+    padding: 15px 30px;
+    margin-bottom: 15px;
+    .initiative_work {
+        display: flex;
+        justify-content: space-between;
+        .initiative_company {
+            font-size: 1.5rem;
+            font-weight: 500;
+        }
+    }
+    .initiative_duration {
+        font-family: 'Roboto Mono', monospace;
+        font-size: 0.8rem;
+    }
+    .initiative_desc {
+        font-weight: 300;
+    }
+}

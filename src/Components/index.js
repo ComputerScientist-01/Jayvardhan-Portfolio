@@ -1,0 +1,6 @@
+export { default as Navbar } from './Navbar/Navbar'
+export { default as SideLinks } from './SideLinks/SideLinks'
+export { default as LightBtn } from './Button/LightBtn'
+export { default as InitiativeCard } from './InitiativesCard/InitiativeCard'
+export { default as ProjectCard } from './ProjectCard/ProjectCard'
+export { default as Footer } from './Footer/Footer'

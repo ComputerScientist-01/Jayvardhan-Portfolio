@@ -1,0 +1,18 @@
+.sidelinks_container {
+    position: absolute;
+    left: 10px;
+    display: inline-flex;
+    flex-direction: column;
+    bottom: 0px;
+    align-items: center;
+
+    .sidelinks_item {
+        margin: 16px;
+        &:hover{
+            margin: 8px;
+            background-color: #eee;
+            border-radius: 5px;
+            padding: 8px;
+        }
+    }
+}
