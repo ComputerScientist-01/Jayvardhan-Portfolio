@@ -2,77 +2,24 @@
     <a href="https://jayvardhanrathi.tech">
 	<img src="https://user-images.githubusercontent.com/39644109/110592126-e6fc2700-819f-11eb-9ca5-8827418963c7.png" width=80%/>
 </a>
-    
-<h2 align="center"> < Insert Project Title Here > </h2>
-<h4 align="center"> < Insert Project Description Here > <h4>
-
 </p>
 
----
+## Link - [Portfolio](https://computerscientist-01.github.io/Jayvardhan-Portfolio/)
 
-demo - [DEMO](link)
+## Portfolio website
 
-Title and description.
-
----
-
-## :fire: Features
-
-- point 1
-- point 2
-- point 3
-- point 4
 
 ---
+## Contributing
 
-## :bulb: Built Using
-
-- [**FLUTTER**](https://flutter.dev/)
-- [**VELOCITY X**](https://velocityx.dev/)
-- [**ALAN AI**](https://alan.app/)
-
----
-
-## :iphone: Screenshots
-
-|                                   |                                   |
-| --------------------------------- | --------------------------------- |
-| <img src="images/"  width="300"/> | <img src="images/"  width="300"/> |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
-
----
-
-## Instructions to run
-
-- Pre-requisites:
-
-  - < insert pre-requisite >
-  - < insert pre-requisite >
-
-- < directions to install >
-
-```bash
-< insert code >
-```
-
-- < directions to execute >
-
-```bash
-< insert code >
-```
-
----
+If you'd like to contribute, please fork the repository and make changes as
+you'd like. Pull requests are warmly welcome. Thanks alot
 
 ## :heart: Found this project interesting?
 
-<br>
+If you found this project useful, then please consider giving it a :star: on Github 
+and sharing it with your friends via social media.
 
-## If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
-
-<br>
 <!-- CONTACT -->
 
 ## :man: Project Created & Maintained By -
@@ -81,3 +28,4 @@ Title and description.
 - **Reach out to me at** [rathi406@gmail.com](rathi406@gmail.com)
 
 <h3 align="right">Built with :heart: by Jayvardhan Rathi</h3>
+
