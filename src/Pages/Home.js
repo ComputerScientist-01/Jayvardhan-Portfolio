@@ -28,7 +28,7 @@ const Home = () => {
 							href="https://github.com/ComputerScientist-01"
 							className="myworkLink"
 						>
-							<LightBtn>My works</LightBtn>
+							<LightBtn>My Github</LightBtn>
 						</a>
 					</div>
 					<div
